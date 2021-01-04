@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, Je suis Thehuman00</h1>
 <h3 align="center">Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehuman00&label=Vue%20profil&color=0e75b6&style=flat" alt="thehuman00" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehuman00&label=Vue%20du%20profil&color=0e75b6&style=flat" alt="thehuman00" /> </p>
 
 - 🤖 Je travaille acrutellement sur un bot discord [Site Web Ici](https://www.poulycroc.org/accueil)
 
