@@ -13,7 +13,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehuman00&show_icons=true&locale=fr" alt="thehuman00" /></p>
 
-<h3 align="left">Pour me contacter venez ici puis chercher Un Guillaume:</h3>
-<p align="left">
+<h3 align="left">Pour me contacter venez ici puis chercher un Guillaume:</h3>
 <a href="https://discord.gg/QU5mKFC" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="QU5mKFC" height="30" width="40" /></a>
-</p>
