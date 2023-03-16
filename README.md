@@ -50,6 +50,6 @@ Hobbyist <strong>Belgium</strong><br>🚑 Love especially medical project 🏥 (
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TheHuman00/TheHuman00/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TheHuman00/TheHuman00/744cc969b03296413fa92dd2ef3cf52548819c67/snake.svg" alt="Snake animation" />
 
 ###
