@@ -7,7 +7,7 @@
 
 #### Featured Project - [inutile.pro](https://inutile.pro)
 
-> Free & public time synchronization servers - NTP, NTS and Roughtime 🔗 [Server stats](https://inutile.pro/stats)
+> Free & public time synchronization servers - NTP, NTS and Roughtime 🔗 [Server stats](https://inutile.pro/)
 > 
 >  Built with :
 > [chrony-stats](https://github.com/TheHuman00/chrony-stats) - [precise-time-ntp](https://github.com/TheHuman00/precise-time-ntp)
